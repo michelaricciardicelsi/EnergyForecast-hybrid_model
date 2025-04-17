@@ -55,8 +55,8 @@ The idea is to ensemble both approaches to improve robustness, accuracy, and tem
 
 | Model       | RMSE      | MAE     |
 |-------------|-----------|---------|
-| XGBoost     | 560.01    | 316.49  |
-| LSTM        | ~1273.35  | ~562.23 |
+| XGBoost     |     |   |
+| LSTM        |   |  |
 | **Ensemble**| TBD |
 
 ---
